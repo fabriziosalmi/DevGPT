@@ -5,6 +5,24 @@ _Code togheter, right now.._
 
 ![DevGPT](https://github.com/fabriziosalmi/DevGPT/blob/main/DevGPT.png?raw=true)
 
+
+## How to use
+The hitchhiker's guide to DevGPT:
+
+1. Initialize a new project typing /project followed by the name and the description like this: `/project MyApp My application is a simple chatbot using GPT2 Italian model`
+2. Once you received project composition, files list and order execution just check for needed files and ask one by one this way: `/complete filename`
+3. If all provided scripts are working as expected you'are done
+
+### Tips
+
+- you can also ask it to improve a single file by typing `/improve `and paste the file content you want to be improved
+- you can ask to add `/logs` and `/debug` snippets for a better troubleshooting
+- you can ask to evaluate compute resources needed to run the application by typing `/dim`
+- you can ask to create a README.md file for the application Github repo by typing `/repo`
+
+..and much more.. it is continuosly improved for any need ^_^
+
+
 Here's a list of valid commands and their uses:
 
 | Command     | Description                                                                                                                                                               |
