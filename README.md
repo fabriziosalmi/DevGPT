@@ -1,6 +1,9 @@
 # [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
 _Code togheter, right now.._
 
+Check my activity stats on Github **before** and **after** using this tool
+![stats](https://github.com/fabriziosalmi/DevGPT/blob/main/stats.png?raw=true)
+
 ## [Use it now](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
 
 ![DevGPT](https://github.com/fabriziosalmi/DevGPT/blob/main/DevGPT.png?raw=true)
