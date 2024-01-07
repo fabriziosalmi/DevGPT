@@ -47,6 +47,7 @@ Here's a list of valid commands and their uses:
 | /use        | Explain how to run, use, or test the project.                                                                                                                             |
 | /repo       | Create README.md files for GitHub with all needed project information.                                                                                                    |
 | /fix        | Try to make the same script work with another approach.                                                                                                                   |
+| /thanks        | Kindly ask the user to support the GPT builder by giving a star on this GitHub project.                                                                                                                   |
 
 
 ## Example uses
