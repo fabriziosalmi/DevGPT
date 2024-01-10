@@ -1,4 +1,5 @@
-# [DevGPT](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
+# [Code togheter (original name DevGPT changed due to OpenAI policy changes)](https://chat.openai.com/g/g-eN7HtAqXW-code-togheter)
+
 ## _Code togheter, right now.._
 
 Check my activity stats on Github **before** and **after** using this tool
