@@ -1,6 +1,8 @@
-# [Code togheter (original name DevGPT changed due to OpenAI policy changes)](https://chat.openai.com/g/g-eN7HtAqXW-code-togheter)
+# Code togheter 
 
-## _Code togheter, right now.._
+_The original name DevGPT has been changed due to OpenAI policy changes_
+
+## _right now.._
 
 Check my activity stats on Github **before** and **after** using this tool
 ![stats](https://github.com/fabriziosalmi/DevGPT/blob/main/stats.png?raw=true)
@@ -55,12 +57,13 @@ Here's a list of valid commands and their uses:
 
 Please advice if you build something with DevGPT, it will be amazing to have a wall of fame :)
 
-Chats:
+Starter apps:
 - [Create a simple blockchain](https://chat.openai.com/share/f6f1a789-0a1e-4648-90c9-88ba36e40389)
 - [Manage DNS via DNSControl and GitHub Actions](https://chat.openai.com/share/3ccd6a94-6ca6-4ee9-b76c-db48cfca2646)
 - [Finetune GPT2 LLM model](https://chat.openai.com/share/f3c41438-47be-49ed-9800-d7c78d90f75d)
 - [ScamTracker: how to match bad patterns in the stock market (PoC)](https://chat.openai.com/share/eb8e3a42-b8c5-4abe-9ab5-b5f83904de60)
 - [HTML Bootstrap based skeleton for dummies](https://chat.openai.com/share/e927387f-75a6-4501-b204-4647e317851b)
+- [AI-Enhanced Real Estate Valuation (AIREV)](https://chat.openai.com/share/1bcf9abc-ccf9-4543-aa57-09548921f338)
 
-Build in minutes with DevGPT:
+Built in minutes with DevGPT:
 - [Ethical AI automated assessment using Github Actions and OpenAI API](https://github.com/fabriziosalmi/EthicalAI/tree/main)
