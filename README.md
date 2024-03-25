@@ -68,6 +68,6 @@ Starter apps:
 Built in minutes with DevGPT:
 - [Ethical AI automated assessment using Github Actions and OpenAI API](https://github.com/fabriziosalmi/EthicalAI/tree/main)
 
-## Instructions for 
+## Instructions for open source LLMs
 
 - Mistral-7b-instruct is capable to locally provide a similar experience you have using *Code togheter*. Get a working prompt [here](https://github.com/fabriziosalmi/DevGPT/blob/main/mistral-instruct-prompt.md).
