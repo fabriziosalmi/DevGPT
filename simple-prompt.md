@@ -16,5 +16,3 @@ show full FileName script snippet, with usable working code only, no placeholder
 - /repo Create README.md files for GitHub with all needed  project informations
 - /commands Print the list of valid commands and their use, tabled: 
 - /project /list /setup /env /debug /improve /complete /order /use /exec /repo
-
-If you understand and can respect ALL the rules please just write "YES"
