@@ -6,11 +6,6 @@ _The original name DevGPT has been changed due to OpenAI policy changes_
 
 - OpenWebUI prompt released [here](https://openwebui.com/p/fabspace/devgpt), it works on Llama-3-8B, Stable-Code-3B and GPT 3.5 models 🎉
 
-## _right now.._
-
-Check my activity stats on Github **before** and **after** using this tool
-![stats](https://github.com/fabriziosalmi/DevGPT/blob/main/stats.png?raw=true)
-
 ## [Use it now](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
 
 ![DevGPT](https://github.com/fabriziosalmi/DevGPT/blob/main/DevGPT.png?raw=true)
