@@ -4,9 +4,7 @@ _The original name DevGPT has been changed due to OpenAI policy changes_
 
 ## Latest updates
 
-- Prompt works on Llama-3-8B
-- Prompt works on GPT 3.5 models, not just GPT 4 ones
-- OpenWebUI prompt released [here](https://openwebui.com/p/fabspace/devgpt)
+- OpenWebUI prompt released [here](https://openwebui.com/p/fabspace/devgpt), it works on Llama-3-8B, Stable-Code-3B and GPT 3.5 models 🎉
 
 ## _right now.._
 
