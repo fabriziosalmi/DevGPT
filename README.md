@@ -4,6 +4,7 @@ _The original name DevGPT has been changed due to OpenAI policy changes_
 
 ## Latest updates
 
+- Code togheter version more focused to build machine learning projects and pipelines is available [here](https://chatgpt.com/g/g-vNaToz870-code-togheter-ml) 🎉
 - OpenWebUI prompt released [here](https://openwebui.com/p/fabspace/devgpt), it works on Stable-Code-3B, Llama-3-8B, WizardLM2-7B, Mistral and GPT 3.5 models 🎉
 
 ## [Use it now](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
