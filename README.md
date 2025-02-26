@@ -9,7 +9,7 @@
 
 ## [Try It Now](https://chat.openai.com/g/g-eN7HtAqXW-devgpt)
 
-![DevGPT](https://github.com/fabriziosalmi/DevGPT/blob/main/DevGPT.png?raw=true)
+![DevGPT](https://raw.githubusercontent.com/fabriziosalmi/DevGPT/refs/heads/main/DevGPT.png)
 
 ## How to Use
 
