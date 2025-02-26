@@ -34,26 +34,26 @@ Follow this guide to get started with Code Together:
 
 ## Full Command List
 
-| Command     | Description                                                                                               |
-|-------------|-----------------------------------------------------------------------------------------------------------|
-| `/project`  | Initialize a new project with a name and description.                                                      |
-| `/list`     | List all needed files for the project in a Linux environment.                                              |
-| `/setup`    | Propose `main` and `requirements.txt` files with full code.                                                |
-| `/env`      | List required imports, libraries, and environment setup steps (Linux only).                                |
-| `/dim`      | Calculate the minimum RAM and HDD space required to run the project.                                       |
-| `/split`    | Modularize a single code snippet or file into multiple files.                                              |
-| `/log`      | Add logging to the existing code.                                                                          |
-| `/docs`     | Explain the functions and libraries used in the latest code snippet.                                       |
-| `/debug`    | Add debugging code to troubleshoot issues.                                                                 |
-| `/exec`     | Simulate running the code and display the output.                                                          |
-| `/improve`  | Optimize and enhance the existing code.                                                                    |
-| `/complete` | Generate a complete script for a specific file.                                                            |
-| `/order`    | Provide the order of file execution to test the project.                                                   |
-| `/adapt`    | Update all existing files to accommodate recent changes.                                                   |
-| `/use`      | Explain how to run, use, or test the project.                                                              |
-| `/repo`     | Generate a README.md file for GitHub with all necessary project information.                               |
-| `/fix`      | Attempt to make the script work using an alternative approach.                                             |
-| `/thanks`   | Encourage users to support the project by starring the GitHub repository.                                  |
+| Command     | Description                                                                                               | Example Use                                                    |
+|-------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| `/project`  | Initialize a new project with a name and description.                                                      | `/project MyApp "My application is a simple chatbot"`            |
+| `/list`     | List all needed files for the project in a Linux environment.                                              | `/list`                                                       |
+| `/setup`    | Propose `main` and `requirements.txt` files with full code.                                                | `/setup`                                                      |
+| `/env`      | List required imports, libraries, and environment setup steps (Linux only).                                | `/env`                                                       |
+| `/dim`      | Calculate the minimum RAM and HDD space required to run the project.                                       | `/dim`                                                       |
+| `/split`    | Modularize a single code snippet or file into multiple files.                                              | `/split` (after providing a large code block)               |
+| `/log`      | Add logging to the existing code.                                                                          | `/log` (after selecting or providing code)                    |
+| `/docs`     | Explain the functions and libraries used in the latest code snippet.                                       | `/docs` (after providing code)                               |
+| `/debug`    | Add debugging code to troubleshoot issues.                                                                 | `/debug` (after selecting or providing code)                    |
+| `/exec`     | Simulate running the code and display the output.                                                          | `/exec` (after setting up the required files and env.) |
+| `/improve`  | Optimize and enhance the existing code.                                                                    | `/improve` (after selecting or providing code)                    |
+| `/complete` | Generate a complete script for a specific file.                                                            | `/complete my_file.py`                                           |
+| `/order`    | Provide the order of file execution to test the project.                                                   | `/order`                                                      |
+| `/adapt`    | Update all existing files to accommodate recent changes.                                                   | `/adapt` (after modifying one file)                           |
+| `/use`      | Explain how to run, use, or test the project.                                                              | `/use`                                                       |
+| `/repo`     | Generate a README.md file for GitHub with all necessary project information.                               | `/repo`                                                       |
+| `/fix`      | Attempt to make the script work using an alternative approach.                                             | `/fix` (when existing code doesn't work)                       |
+| `/thanks`   | Encourage users to support the project by starring the GitHub repository.                                  | `/thanks`                                                      |
 
 ## Example Uses
 
@@ -74,7 +74,7 @@ Share your creations! I love to feature them in the "Wall of Fame" 😊
 
 ## Contributing
 
-We welcome all contributions! Please read the [contributing guidelines](CONTRIBUTING.md) for more details on how to get involved.
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more details on how to get involved.
 
 ## License
 
