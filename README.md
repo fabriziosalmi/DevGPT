@@ -2,6 +2,8 @@
 
 *Formerly known as DevGPT, rebranded due to OpenAI policy changes.*
 
+> ⚠️ **This is a prompt, not installable software.** Code Together (formerly DevGPT) is a **custom GPT / prompt-pack** for coding assistance — there is nothing to `pip install`, build, or run in this repository. Use it directly via the ChatGPT / OpenWebUI links below, or copy the prompt into your own LLM.
+
 ## Latest Updates
 
 - **New ML-Focused Version**: Discover our enhanced version for building machine learning projects and pipelines [here](https://chatgpt.com/g/g-vNaToz870-code-togheter-ml).
